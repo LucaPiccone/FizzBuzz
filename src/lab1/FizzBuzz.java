@@ -5,12 +5,12 @@ package lab1;
  */
 class FizzBuzz {
 
-    public static void main(String[] args) {
+    public static void fizzBuzz() {
 
         doFizzBuzz();
     }
 
-    private static void doFizzBuzz() {
+    public static void doFizzBuzz() {
 
         int i = 1;
         while (i < 100) {
