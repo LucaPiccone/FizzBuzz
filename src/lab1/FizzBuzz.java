@@ -5,7 +5,7 @@ package lab1;
  */
 class FizzBuzz {
 
-    public static void fizzBuzz() {
+    public static void main() {
 
         doFizzBuzz();
     }
